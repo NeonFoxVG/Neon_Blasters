@@ -1,13 +1,21 @@
-DESCRIPTION:
+# Neon Blasters
+*A 2D endless arcade shooter built in Unity and C#, inspired by the classic Space Invaders.*
 
--Neon Blasters is an endless shooter based off of Space Invaders
--You blow up hostile ships while evading the enemy fire to make a new high-score before your lives run out
--This was my first Unity project so any feedback is appreciated
+## Features
 
-INSTRUCTIONS:
+* Endless arcade style game loop
+* Enemy spawning and scoring system
+* Lives and high score tracking
+* TextMeshPro HUD
+* Interactive main and pause 
 
--A/D or Arrow Keys to strafe/move
--Space to shoot
--P to pause
+## Tech Stack
 
-Thank you for playing
+* C#
+* Unity
+* Visual Studio
+
+## Screenshots
+
+![Main Menu](https://github.com/NeonFoxVG/Mecha-Odyssey/blob/main/Odyssey.png)
+![Shooting](https://github.com/NeonFoxVG/Mecha-Odyssey/blob/main/Odyssey.png)
