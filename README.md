@@ -17,5 +17,5 @@
 
 ## Screenshots
 
-![Main Menu](https://github.com/NeonFoxVG/Mecha-Odyssey/blob/main/Odyssey.png)
+![Main Menu](https://github.com/NeonFoxVG/Neon_Blasters/blob/main/Main%20Menu.jpg)
 ![Shooting](https://github.com/NeonFoxVG/Mecha-Odyssey/blob/main/Odyssey.png)
